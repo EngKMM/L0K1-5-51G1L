@@ -18,7 +18,7 @@ During the first phase of this project I will be writing about different subject
 
 ### Realms
 
-Basically my way of splitting up my notes into 9 large topic sections (realms) and one root (yggdrasil) section. Each of the 9 sections will contain a number of subsections in order to maintain structure and clarity as the memoire grows
+Basically my way of splitting up my notes into 9 large topic sections (realms) and one root (yggdrasil) section. Each of the 9 sections will contain a number of subsections in order to maintain structure and clarity as the grimoire grows
 
 ### Important
 The contents of this notebook are meant purely for testing in authorized and safe environments. Always ask for permission before attempting to use any of the techniques in this notebook, and make sure to always keep it ethical and legal according to your local laws.
