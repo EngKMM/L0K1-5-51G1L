@@ -20,17 +20,20 @@
 
 	Basically my way of splitting up my notes into 9 large topic sections (realms) and one root (yggdrasil) section. Each of the 9 sections will contain a number of subsections in order to maintain structure and clarity as the memoire grows
 
-### [Muspelheim]
+### [[Muspelheim]]
 
 The realm of fire where only the most venomous and mischievous **exploits** dwell......
-### [Helheim]
+### [[Helheim]]
 
 The realm of the dead, where **shells** spawn from the underground like the dead.....
+
+### [[Jötunheim]]
+
+The realm of giants poking their heads from the clouds and escalating their privileges….
 
 ### Important
 
 This playbook contains original content based on my personal learning journey in offensive security. Some sections may have been inspired by public resources such as TryHackMe, HackTheBox, and community writeups. All material has been rewritten, restructured, and expanded in my own words for clarity and educational purposes.  
 
 This project is intended for ethical hacking and testing in authorized environments only. Always get explicit permission before applying any techniques.  
-
 
